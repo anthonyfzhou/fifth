@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fifth/static/css/main.2431134f.chunk.css",
+    "main.js": "/fifth/static/js/main.43d3faa2.chunk.js",
+    "main.js.map": "/fifth/static/js/main.43d3faa2.chunk.js.map",
+    "runtime-main.js": "/fifth/static/js/runtime-main.2f155904.js",
+    "runtime-main.js.map": "/fifth/static/js/runtime-main.2f155904.js.map",
+    "static/js/2.b4b7a5a0.chunk.js": "/fifth/static/js/2.b4b7a5a0.chunk.js",
+    "static/js/2.b4b7a5a0.chunk.js.map": "/fifth/static/js/2.b4b7a5a0.chunk.js.map",
+    "static/js/3.e1ce97e0.chunk.js": "/fifth/static/js/3.e1ce97e0.chunk.js",
+    "static/js/3.e1ce97e0.chunk.js.map": "/fifth/static/js/3.e1ce97e0.chunk.js.map",
+    "index.html": "/fifth/index.html",
+    "static/css/main.2431134f.chunk.css.map": "/fifth/static/css/main.2431134f.chunk.css.map",
+    "static/js/2.b4b7a5a0.chunk.js.LICENSE.txt": "/fifth/static/js/2.b4b7a5a0.chunk.js.LICENSE.txt",
+    "static/media/ducks.png": "/fifth/static/media/ducks.2a5a42ef.png",
+    "static/media/logo.6ce24c58.svg": "/fifth/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f155904.js",
+    "static/js/2.b4b7a5a0.chunk.js",
+    "static/css/main.2431134f.chunk.css",
+    "static/js/main.43d3faa2.chunk.js"
+  ]
+}
